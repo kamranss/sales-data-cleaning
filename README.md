@@ -1,4 +1,4 @@
-# 🧹 PriceCo Sales Data Cleaning (Power BI)
+# 🧹 Sales Data Cleaning (Power BI)
 
 This project shows how I cleaned a raw sales dataset in **Power BI** using both:
 - **Power Query UI** (no code), and
